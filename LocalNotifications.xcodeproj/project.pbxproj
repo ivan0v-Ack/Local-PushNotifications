@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A77D11AF262ED0300014602A /* NotificationPublisher.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77D11AE262ED0300014602A /* NotificationPublisher.swift */; };
 		A79718D6262ECFBB00ED8A82 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A79718D5262ECFBB00ED8A82 /* AppDelegate.swift */; };
 		A79718D8262ECFBB00ED8A82 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A79718D7262ECFBB00ED8A82 /* SceneDelegate.swift */; };
 		A79718DA262ECFBB00ED8A82 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A79718D9262ECFBB00ED8A82 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A77D11AE262ED0300014602A /* NotificationPublisher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationPublisher.swift; sourceTree = "<group>"; };
 		A79718D2262ECFBB00ED8A82 /* LocalNotifications.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocalNotifications.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A79718D5262ECFBB00ED8A82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A79718D7262ECFBB00ED8A82 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				A79718DE262ECFBB00ED8A82 /* Assets.xcassets */,
 				A79718E0262ECFBB00ED8A82 /* LaunchScreen.storyboard */,
 				A79718E3262ECFBB00ED8A82 /* Info.plist */,
+				A77D11AE262ED0300014602A /* NotificationPublisher.swift */,
 			);
 			path = LocalNotifications;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				A79718DA262ECFBB00ED8A82 /* ViewController.swift in Sources */,
 				A79718D6262ECFBB00ED8A82 /* AppDelegate.swift in Sources */,
 				A79718D8262ECFBB00ED8A82 /* SceneDelegate.swift in Sources */,
+				A77D11AF262ED0300014602A /* NotificationPublisher.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
